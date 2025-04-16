@@ -31,7 +31,7 @@ Whether it's enhancing KPIs through advanced analytics or launching campaigns fo
 
 Master of Science in Information Technology and Management (**STEM**)
 
-**Visveswaraya Technological University (Bangalore, India)                                                                                                                       *Aug 2017 - Jul 2021***
+**Visveswaraya Technological University (Bangalore, India)                                                                                                                 *Aug 2017 - Jul 2021***
 
 Bachelor of Engineering in Electronics and Communications Engineering
 
