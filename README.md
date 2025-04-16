@@ -62,17 +62,7 @@ Bachelor of Engineering in Electronics and Communications Engineering
 🔹 **Truck Fleet Risk Analytics**
 
 **Tools:** Hadoop HDFS, Apache Pig, Hive, Tableau, Excel
-**Overview:** For my Big Data Analytics coursework, I designed an end-to-end analytics pipeline to help AZ National Trucking identify fleet risk patterns and optimize safety policies.
-
-The project utilized Hadoop HDFS to ingest CSV datasets containing truck profiles, geolocation data, and mileage logs. We used Apache Pig scripts for data transformation and cleaning, then stored curated tables—including Risk Factor, Driver Mileage, and Average Mileage—in Hive. Through ODBC connectors, we linked these Hive tables to Tableau, creating dynamic dashboards that visualized incident hotspots, driver risk scores, and performance trends across time and location.
-
-Key insights revealed:
-
-- Risk levels didn't correlate with distance traveled—some low-mileage trucks had higher violation rates.
-- Oshkosh truck models showed 2.5x higher risk factor than other brands.
-- Incidents occurred disproportionately on Sundays and Tuesdays, showing distinct patterns across different city populations.
-
-These findings led us to recommend specific changes to vehicle acquisition strategies, identify critical behavioral risk areas, and propose revised fleet operation policies.
+**Overview:** Built an end-to-end big data pipeline to identify risk trends in a national trucking fleet. Ingested and transformed CSV datasets to visualize high-risk drivers, vehicle brands, and violation patterns across time and geography. Delivered actionable insights for safety policies, vehicle selection, and operational planning.
 
 🔹 **Unisant USA | Business Analyst - Lead Funnel & CRM Strategy**
 
